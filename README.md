@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pedrorvidal
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ReactJS, Laravel, Drupal and NextJS
-- 💞️ I’m looking to collaborate on WordPress translating.
 - 📫 How to reach me:
 - 📨 pedrorvidal@gmail.com
 - 🐦 @vidaldeveloper
